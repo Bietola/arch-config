@@ -38,3 +38,4 @@ meetup-haskell-milano https://www.meetup.com/haskell-milano/
 ms-streams https://web.microsoftstream.com/
 poli-db2-book http://dbbook.dia.uniroma3.it/
 euler https://projecteuler.net/archives
+coc-lsp-servers https://github.com/neoclide/coc.nvim/wiki/Language-servers
